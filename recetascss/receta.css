@@ -1,0 +1,48 @@
+body {
+    background-image: url(fondito.jpg);
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+    text-align: justify;
+ 
+    
+}
+h1 {
+    font-family:cursive;
+    text-align: center;
+
+    font-weight: bold;
+    color: cadetblue;
+    background-color: bisque;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-style: normal;
+    color: cadetblue;
+    text-decoration: underline;
+    background-color: rgb(240, 232, 232) ;
+  
+ }
+ol {
+    font-size: x-large;
+    color: bisque;
+    font-weight: bold;
+ }
+ ul
+ {
+    font-size:x-large;
+    color:  bisque;
+    font-weight: bold;
+ }
+ #parrafo1 {
+    background-color: rgb(56, 95, 107);
+    font-size: medium ;
+    text-align: left;
+   color:bisque;
+ }
+ #parrafo2 {
+    background-color: bisque;
+    font-family: cursive ;
+
+ }
